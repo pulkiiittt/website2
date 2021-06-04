@@ -1,0 +1,130 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  color: #00adb5;
+}
+
+h1{
+  color: #eeeeee;
+  width: 30%;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+
+h3{
+  display: inline-block;
+}
+hr{
+  margin: 0;
+  height:0;
+  border-width:0;
+  color:white;
+  background-color:white;
+}
+p{
+  color: #eeeeee;
+  width: 30%;
+  margin: 0 auto;
+
+}
+
+/* Class Elements */
+.topContainer{
+  height: 650px;
+  width: 100%;
+  background-color: #393e46;
+  position: relative;
+  padding-top: 100px;
+
+}
+.cloud1{
+  position: absolute;
+  right: 300px;
+  top:50px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.cloud2{
+  position: absolute;
+  top:200px;
+  left: 200px;
+  width: 20%;
+  height: 100px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.mountain1{
+  position: absolute;
+  width: 80%;
+  height: 600px;
+  top:150px;
+  right:100px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+}
+.nametext2{
+  font-family: 'Raleway', sans-serif;
+}
+.text1{
+  font-family: 'ZCOOL KuaiLe', cursive;
+  color:white;
+  background-color: #222831;
+}
+.text2{
+  font-family: 'Raleway', sans-serif;
+  color: #00adb5;
+}
+.ProfilePicture{
+  height: 170px;
+  width:170px;
+}
+.profile{
+  padding-top: 30px;
+  height: 300px;
+  width: 100%;
+  background-color: #222831;
+  margin: 0;
+}
+.skill-row{
+  height: 300px;
+  width: 100%;
+  background-color: #222831;
+}
+.middle-container{
+  height: 1100px;
+  width: 100%;
+  background-color: #393e46;
+  position: relative;
+  padding-top: 100px;
+  position: relative;
+}
+.bottom-container{
+  height: 400px;
+  width: 100%;
+  background-color: #393e46;
+  position: relative;
+  padding-top: 100px;
+  position: relative;
+}
+.footer.link{
+  position: absolute;
+
+}
+.text3{
+  font-family: 'ZCOOL KuaiLe', cursive;
+  color:white;
+}
+.contact-me{
+
+
+}
